@@ -22,7 +22,7 @@ FUNCIONALIDADES
 
 TECNOLOGIAS UTILIZADAS
 ---------------------------------------------------------------
-Linguagem C: back-end.
-MySQL: banco de dados relacional.
+Linguagem C: GDB compiler
+
 
 
