@@ -24,5 +24,7 @@ TECNOLOGIAS UTILIZADAS
 ---------------------------------------------------------------
 Linguagem C: GDB compiler
 
-
-
+REFERÊNCIAS
+---------------------------------------------------------------
+UNICAMP - Árvores Binárias
+WAGNER GASPAR = https://wagnergaspar.com/tag/arvore-binaria/
